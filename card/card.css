@@ -1,0 +1,30 @@
+.card {
+  width: fit-content;
+  background-color: rgb(176, 252, 252);
+  border-radius: 20px;
+}
+
+.card:hover {
+  cursor: pointer;
+  background-color: aqua;
+}
+
+.imgcont {
+  padding: 10px;
+}
+
+.cardimg {
+  width: 200px;
+  border-radius: 15px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.field {
+}
+
+.center {
+  text-align: center;
+}
